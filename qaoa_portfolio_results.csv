@@ -1,0 +1,6 @@
+Experiment,Key result,Metric,Value
+Classical exhaustive search,"Best portfolio: stocks 2, 3, 6",20 feasible portfolios checked,Cost = -0.50301469
+"QAOA sampling (p=1, lambda=1)",Exact best portfolio sampled,Best-portfolio hit rate,1.56% (32 / 2048 shots)
+QAOA constraint satisfaction,Exactly 3 stocks selected,Feasible sample rate,53.47%
+Penalty sweep,Best observed feasibility,lambda = 0.25,64.3% (single run)
+Depth sweep,Best observed approximation ratio,p = 3,0.95653 (single run)
