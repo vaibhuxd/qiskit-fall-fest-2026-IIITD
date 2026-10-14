@@ -1,0 +1,14 @@
+Metric,Result
+Stocks,12
+Required selections,6
+Feasible portfolios,924
+Classical best stocks (1-based),"1, 4, 6, 8, 9, 12"
+Classical best cost,-0.68721925
+QAOA depth,1
+Optimizer evaluations,33
+Shots,2048
+Feasible sample rate (%),50.98
+Exact optimum hits,0
+Best sampled feasible stocks,"1, 4, 5, 6, 8, 9"
+Best sampled feasible cost,-0.67259989
+Gap from classical optimum,0.01461935
